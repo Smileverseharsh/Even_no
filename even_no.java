@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class even_no {
     public static  int prime(int n){
-    
+        // using if else
         if (n%2 == 0)
          System.out.println("No. is prime");
         else
